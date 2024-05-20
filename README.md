@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislyonsky&label=Profile%20views&color=0e75b6&style=flat" alt="chrislyonsky" /> </p>
 
-<p align="left"> <a href="https://twitter.com/spatialtechguy" target="blank"><img src="https://img.shields.io/twitter/follow/spatialtechguy?logo=twitter&style=for-the-badge" alt="spatialtechguy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/spatialtechguy" target="blank"><img src="https://img.shields.io/twitter/follow/spatialtechguy?logo=twitter&style=for-the-badge" alt="chris_lyons_ky" /></a> </p>
 
 - 🌱 I’m currently learning **C# .NET**
 
