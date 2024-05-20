@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Lyons</h1>
-<h3 align="center">GIS Developer @ Kentucky Division of Mine Permits| MS Student @ UKY Digital Mapping</h3>
+<h3 align="center">GIS Developer @ Kentucky Division of Mine Permits</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislyonsky&label=Profile%20views&color=0e75b6&style=flat" alt="chrislyonsky" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# .NET**
 
-- 📫 How to reach me **Chris.Lyons@ky.gov** or **wcly222@uky.edu**
+- 📫 How to reach me **Chris.Lyons@ky.gov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
