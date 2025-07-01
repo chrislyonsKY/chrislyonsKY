@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# .NET**
 
-- 📫 How to reach me **Chris.Lyons@ky.gov**
+- 📫 How to reach me **wchris.lyons@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
