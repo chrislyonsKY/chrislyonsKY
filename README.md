@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Lyons</h1>
-<h3 align="center">GIS Analyst @ Kentucky Energy and Environment Cabinet</h3>
+<h3 align="center">GIS Analyst @ >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislyonsky&label=Profile%20views&color=0e75b6&style=flat" alt="chrislyonsky" /> </p>
 
