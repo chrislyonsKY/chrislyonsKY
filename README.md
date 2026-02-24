@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Chris Lyons
-
-![GIS](https://img.shields.io/badge/GIS-Spatial_Systems-1f6feb?style=for-the-badge)
-![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-.NET_8-0079C1?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-12-purple?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-Hobby_Projects-3178C6?style=for-the-badge)
-
+![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-.NET_8-2C7AC3?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GeoAI](https://img.shields.io/badge/GeoAI-Spatial_Automation-111111?style=for-the-badge)
+![Enterprise GIS](https://img.shields.io/badge/Enterprise-GIS_Modernization-1F2937?style=for-the-badge)
 ---
 
 ## 🧭 Focus
