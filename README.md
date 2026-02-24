@@ -48,8 +48,6 @@ These are exploratory builds focused on modern frontend architecture and interac
 ## 🛠 Stack
 
 **Primary**
-- C#
-- .NET 8
 - ArcGIS Pro SDK
 - Python
 - SQL
@@ -57,6 +55,7 @@ These are exploratory builds focused on modern frontend architecture and interac
 **Secondary / Experimental**
 - TypeScript
 - Node.js
+- R
 
 
 ---
