@@ -65,9 +65,3 @@ These are exploratory builds focused on modern frontend architecture and interac
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:wchris.lyons@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Lyons-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/williamclyons)
 
----
-
-## 📊 GitHub Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislyonsKY&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislyonsKY&layout=compact&theme=dark)
