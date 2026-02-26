@@ -1,96 +1,104 @@
-# Chris Lyons
+# Chris Lyons  
+**Spatial Systems Engineer | GIS Developer | Full-Stack Builder | GeoAI**
 
-**GIS Developer | Spatial Systems Engineer | GeoAI Builder**
+🌐 https://chrislyonsky.github.io/  
+📰 Publisher of *Null Island Dispatch* — AI + spatial systems in production published weekly on LinkedIn.
 
-![ArcGIS
-Pro](https://img.shields.io/badge/ArcGIS_Pro-3.6-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GeoAI](https://img.shields.io/badge/GeoAI-Spatial_Intelligence-111111?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![GitHub
-Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
 
+## 🧭 Geospatial Engineering
 
+![Python](https://img.shields.io/badge/Python-ArcPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-.NET-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+![Arcade](https://img.shields.io/badge/Arcade-Expressions-1F2937?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-------------------------------------------------------------------------
+---
 
-I design and modernize enterprise GIS systems, transforming legacy
-spatial workflows into scalable, SDK-driven spatial tools.
+## 💻 Full-Stack Development
 
-My work operates at the intersection of geospatial engineering, Python automation, and applied AI for GIS
-modernization.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State_Management-1F2937?style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-Type_Safe_SQL-1F2937?style=for-the-badge)
 
-------------------------------------------------------------------------
+---
 
-## Core Technical Focus
+## 🤖 AI & Data
 
-### ArcGIS Development
+![AI / Machine Learning](https://img.shields.io/badge/AI-Machine_Learning-111111?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
--   ArcGIS Pro 3.x
-    Arcpy scripts
--   Enterprise geoprocessing tool development
+---
 
-### Languages & Platforms
+## ⚙️ Tooling
 
-- 	AI Integration
-- 	Drizzle ORM
-- 	Express
--	JavaScript
-- 	Leaflet
-- 	Node.js
--   PowerShell
--	Python
--	React
--   SQL
-- 	Tailwind CSS
-- 	Three.js
--   TypeScript
-- 	Vite
-- 	Zustand
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI & Automation
+---
 
--   Applied AI for spatial workflows
--   Developing AI skills
--   AI-assisted development pipelines
--   Batch-driven GIS automation
--   Tool-agnostic AI development architecture
+# 🚀 Featured Projects
 
-### DevOps & Systems
+## 🗺 Enterprise GIS Automation Toolkit
+Modernized legacy ArcMap workflows into ArcGIS Pro SDK-based add-ins.  
+Includes grid generation, raster registration, metadata automation, and QA/QC validation pipelines.
 
--   GitHub Actions
--   Structured logging and configuration-driven execution
+**Stack:** ArcGIS Pro SDK (.NET), Python, ArcPy  
+**Focus:** Maintainability, MVVM architecture, spatial accuracy  
 
-------------------------------------------------------------------------
+---
 
-## What I Build
+## 🌐 Spatial Web Applications
+Built full-stack TypeScript applications with interactive mapping and 3D components.
 
--   ArcGIS Pro add-ins using SDK best practices
--   Enterprise permit and regulatory GIS automation systems
--   Metadata-driven spatial packaging frameworks
--   AI-assisted GIS development workflows
--   Modernized replacements for legacy ArcMap tools
+**Stack:** React, Node.js, Express, Vite, Tailwind CSS, Leaflet, Three.js  
+**Focus:** API-driven architecture, scalable UI state (Zustand), clean SQL modeling (Drizzle ORM)
 
-------------------------------------------------------------------------
+---
 
-## Current Focus
+## 🤖 GeoAI Workflow Experiments
+Exploring integration of AI into real-world spatial pipelines.
 
--   Integrating GeoAI into enterprise GIS environments
--   Building SDK-first spatial tool architectures
--   Structuring AI development playbooks for GIS teams
--   Converting legacy GIS workflows into maintainable, scalable systems
+- LLM-assisted code generation for geospatial tasks  
+- Automated spatial data validation  
+- AI-driven documentation pipelines  
 
-------------------------------------------------------------------------
-## Vibe Coding Projects
+**Stack:** Python, Node.js, OpenAI APIs  
 
--   TypeScript and Three.js FPS game
+---
 
-------------------------------------------------------------------------
+## 📰 Null Island Dispatch
+Technical newsletter focused on AI, GIS modernization, and spatial development.
 
-## Connect
+Read more: https://chrislyonsky.github.io/
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:wchris.lyons@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Lyons-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/williamclyons)
+---
 
+# 🧠 What I Focus On
+
+- Converting legacy GIS systems into modern architectures  
+- SDK-first spatial engineering  
+- Type-safe backend systems  
+- Practical AI integration (not hype-driven demos)  
+- Production-ready automation pipelines  
+
+---
+
+# 📬 Connect
+
+🌐 Website: https://chrislyonsky.github.io/  
+💼 LinkedIn: https://linkedin.com/in/williamclyons  
+
+---
+
+## 📜 License
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+All public repositories are licensed under the MIT License unless otherwise stated.
