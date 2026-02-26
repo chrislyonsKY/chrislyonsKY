@@ -34,10 +34,21 @@ modernization.
 
 ### Languages & Platforms
 
--   TypeScript/JavaScript
--   Python 3.11+
--   SQL
+- 	AI Integration
+- 	Drizzle ORM
+- 	Express
+-	JavaScript
+- 	Leaflet
+- 	Node.js
 -   PowerShell
+-	Python
+-	React
+-   SQL
+- 	Tailwind CSS
+- 	Three.js
+-   TypeScript
+- 	Vite
+- 	Zustand
 
 ### AI & Automation
 
