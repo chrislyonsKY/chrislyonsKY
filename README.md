@@ -12,6 +12,8 @@
 ![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-.NET-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 ![Arcade](https://img.shields.io/badge/Arcade-Expressions-1F2937?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
