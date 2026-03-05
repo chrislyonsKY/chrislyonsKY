@@ -10,6 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-ArcPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS_Pro_SDK-.NET-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+[![ArcGIS JS SDK](https://img.shields.io/badge/ArcGIS_JS_SDK-5.0-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)](#)
 ![Arcade](https://img.shields.io/badge/Arcade-Expressions-1F2937?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
