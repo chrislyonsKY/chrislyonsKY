@@ -161,13 +161,9 @@ Technologies used
 
 ---
 
-# Chris Lyons
+# Hobbies
 
 Open geospatial software and experimentation.
-
-Organization  
-https://github.com/chrislyonsKY
-
 Focus areas include:
 
 - cloud geospatial tooling
