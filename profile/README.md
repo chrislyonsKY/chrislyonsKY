@@ -176,7 +176,7 @@ Focus areas include:
 
 # Writing
 
-I publish **Chris Lyons Dispatch**, a technical newsletter focused on:
+I publish **Null Island Dispatch**, a LinkedIn technical newsletter focused on:
 
 - geospatial software engineering
 - GIS modernization
